@@ -37,7 +37,7 @@ The document focuses on how consensus systems behave under controlled execution 
 ## Document
 
 📄 **Read the full whitepaper:**  
-[AegisQ Consensus Protocol Whitepaper](./AegisQ_Consensus_Protocol_Whitepaper_v1.pdf)
+[AegisQ Consensus Protocol Whitepaper](./AegisQ_Consensus_Protocol_Whitepaper.pdf)
 
 ---
 
