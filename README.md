@@ -37,7 +37,7 @@ The document focuses on how consensus systems behave under controlled execution 
 ## Document
 
 📄 **Read the full whitepaper:**  
-https://sai-shashank-2005.github.io/aegisq-core-whitepaper/
+https://sai-shashank-2005.github.io/aegisq-consensus-whitepaper/
 
 ---
 
